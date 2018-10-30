@@ -6,9 +6,7 @@ author_profile: true
 ---
 (* indicates equal contribution)
 
-<h1>sss</h1>
-<font size="20">sss</font>
-
+<font size="15"><strong>2018</strong></font>
 - [Deep Neural Networks for Linear Sum Assignment Problems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8371290)  
 Mengyuan Lee, ***Yuanhao Xiong***, Guanding Yu, Geoffrey Ye Li  
 IEEE Wireless Communications Letters, 2018
