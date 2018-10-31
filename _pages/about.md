@@ -18,7 +18,7 @@ News
 ======
 - [10/2018] I joined in the City Brain Research led by Prof. Zhenhui Jessie Li.
 - [10/2018] I was awarded with National Scholarship (**top 1%**).
-- [10/2018] I started as a research intern at DiDi AI Labs working with Prof. Yan Liu.
+- [07/2018] I started as a research intern at DiDi AI Labs working with Prof. Yan Liu.
 
 For more info
 ======
