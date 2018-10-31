@@ -1,13 +1,14 @@
 ---
 permalink: /
 excerpt: "About me"
-title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About me
+======
 I am currently a senior student at College of Information Science and Electronic Engineering, Zhejiang University. My research interests fall in **data mining** with a special focus on text data and machine learning.
 
 Now I work as a research intern of the City Brain project advised by [Prof. Zhenhui Jessie Li](https://faculty.ist.psu.edu/jessieli). I am devoted to utilizing reinforcement learning methods for intelligent transportation. Before that, I was a research intern at DiDi AI Labs in Beijing and my mentor was [Prof. Yan Liu](http://www-bcf.usc.edu/~liu32/). I was also a research assistant of [Prof. Guanding Yu's](https://person.zju.edu.cn/en/yuguanding) group in 2017.
