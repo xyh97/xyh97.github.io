@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br> * indicates equal contribution.</br>
+\* indicates equal contribution.
 ## 2019
 - Adaptive Gradient Methods with Dynamic Bound of Learning Rate  
-<strong>Yuanhao Xiong*</strong>, Liangchen Luo*, Yan Liu  
+**Yuanhao Xiong\***, Liangchen Luo*, Yan Liu  
 International Conference on Learning Representations (**ICLR**), 2019
 
 ## 2018
