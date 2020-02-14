@@ -16,10 +16,9 @@ I finished my bachelor of engineering at Zhejiang University. I previously worke
 
 News
 ======
-- [12/2018] A paper was accepted by ICLR 2019.
-- [10/2018] I joined in the City Brain Research led by Prof. Zhenhui Jessie Li.
-- [10/2018] I was awarded with National Scholarship (**top 1%**).
-- [07/2018] I started as a research intern at DiDi AI Labs working with Prof. Yan Liu.
+- [12/2019] A paper was accepted by ICLR 2020.
+- [09/2019] I joined UCLA as a Ph.D. student, under the supervision of Prof. Cho-Jui Hsieh.
+
 
 For more info
 ======

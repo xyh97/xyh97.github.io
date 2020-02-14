@@ -7,6 +7,9 @@ author_profile: true
 
 \* indicates equal contribution.
 ## 2019
+- Learning Traffic Signal Control from Demonstrations
+**Yuanhao Xiong**, Guanjie Zheng, Kai Xu, Zhenhui Li
+International Conference on Information and Knowledge Management (**CIKM**), 2019
 - Adaptive Gradient Methods with Dynamic Bound of Learning Rate  
 **Yuanhao Xiong\***, Liangchen Luo*, Yan Liu  
 International Conference on Learning Representations (**ICLR**), 2019
