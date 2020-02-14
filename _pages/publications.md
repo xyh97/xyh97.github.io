@@ -7,9 +7,9 @@ author_profile: true
 
 \* indicates equal contribution.
 ## 2020
-- Adaptive Gradient Methods with Dynamic Bound of Learning Rate  
+- Learning to Learn by Zeroth-Order Oracle  
 Yangjun Ruan, **Yuanhao Xiong\***, Sashank Reddi, Sanjiv Kumar, Cho-Jui Hsieh  
-International Conference on Learning Representations (**ICLR**), 2020
+International Conference on Learning Representations (**ICLR**), 2020 [\[Paper\]](https://openreview.net/pdf?id=ryxz8CVYDH)
 - Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control  
 Chacha Chen, Hua Wei, Nan Xu, Guanjie Zheng, Ming Yang, **Yuanhao Xiong**, Kai Xu, Zhenhui Li  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2020
