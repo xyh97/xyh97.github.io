@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 \* indicates equal contribution.
-## Prepri
-- How much progress have we made in neural network training? A New Evaluation Protocol for Benchmarking Optimizers
+## Preprint
+- How much progress have we made in neural network training? A New Evaluation Protocol for Benchmarking Optimizers  
 **Yuanhao Xiong**, Xuanqing Liu, Li-Cheng Lan, Yang You, Si Si, Cho-Jui Hsieh
 Under Review \[[Paper](
 https://arxiv.org/pdf/2010.09889.pdf)\]
 
 ## 2020
-- Improved Adversarial Training via Learned Optimizer
+- Improved Adversarial Training via Learned Optimizer  
 **Yuanhao Xiong**, Cho-Jui Hsieh
 European Conference on Computer Vision (**ECCV**), 2020 \[[Paper](
 https://arxiv.org/pdf/2004.12227.pdf)\] 
