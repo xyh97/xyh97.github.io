@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 \* indicates equal contribution.
-## Preprint
+## Prepri
 - How much progress have we made in neural network training? A New Evaluation Protocol for Benchmarking Optimizers
 **Yuanhao Xiong**, Xuanqing Liu, Li-Cheng Lan, Yang You, Si Si, Cho-Jui Hsieh
 Under Review \[[Paper](
