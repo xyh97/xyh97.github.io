@@ -7,16 +7,21 @@ author_profile: true
 
 \* indicates equal contribution.
 ## Preprint
-- Extreme Zero-Shot Learning for Extreme Text Classification  
-**Yuanhao Xiong**, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu, Inderjit S Dhillon  
-Under Review \[[Paper](
-https://arxiv.org/pdf/2112.08652.pdf)\]\[[Code](https://github.com/amzn/pecos/tree/mainline/examples/MACLR)\]
+
 - How much progress have we made in neural network training? A New Evaluation Protocol for Benchmarking Optimizers  
 **Yuanhao Xiong**, Xuanqing Liu, Li-Cheng Lan, Yang You, Si Si, Cho-Jui Hsieh  
 Under Review \[[Paper](
 https://arxiv.org/pdf/2010.09889.pdf)\]
 
 ## 2022
+- Learning to Learn with Smooth Regularization  
+**Yuanhao Xiong**, Cho-Jui Hsieh  
+European Conference on Computer Vision (**ECCV**), 2022 \[[Paper](
+/files/eccv2022.pdf)\] 
+- Extreme Zero-Shot Learning for Extreme Text Classification  
+**Yuanhao Xiong**, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu, Inderjit S Dhillon  
+Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**), 2022 \[[Paper](
+https://aclanthology.org/2022.naacl-main.399.pdf)\]\[[Code](https://github.com/amzn/pecos/tree/mainline/examples/MACLR)\]
 - Learning to Schedule Learning rate with Graph Neural Networks  
 **Yuanhao Xiong**, Li-Cheng Lan, Xiangning Chen, Ruochen Wang, Cho-Jui Hsieh  
 International Conference on Learning Representations (**ICLR**), 2022 \[[Paper](
